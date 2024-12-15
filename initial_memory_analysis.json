@@ -1,0 +1,56 @@
+[
+    {
+        "column": "event_time",
+        "memory_bytes": 72132,
+        "memory_share": 0.2236789878442074,
+        "dtype": "object"
+    },
+    {
+        "column": "event_type",
+        "memory_bytes": 55452,
+        "memory_share": 0.17195484991317292,
+        "dtype": "object"
+    },
+    {
+        "column": "product_id",
+        "memory_bytes": 8132,
+        "memory_share": 0.02521706772513024,
+        "dtype": "int64"
+    },
+    {
+        "column": "category_id",
+        "memory_bytes": 8132,
+        "memory_share": 0.02521706772513024,
+        "dtype": "int64"
+    },
+    {
+        "column": "category_code",
+        "memory_bytes": 32880,
+        "memory_share": 0.10195981146117589,
+        "dtype": "object"
+    },
+    {
+        "column": "brand",
+        "memory_bytes": 45412,
+        "memory_share": 0.14082113619449269,
+        "dtype": "object"
+    },
+    {
+        "column": "price",
+        "memory_bytes": 8132,
+        "memory_share": 0.02521706772513024,
+        "dtype": "float64"
+    },
+    {
+        "column": "user_id",
+        "memory_bytes": 8132,
+        "memory_share": 0.02521706772513024,
+        "dtype": "int64"
+    },
+    {
+        "column": "user_session",
+        "memory_bytes": 85132,
+        "memory_share": 0.26399156536839496,
+        "dtype": "object"
+    }
+]

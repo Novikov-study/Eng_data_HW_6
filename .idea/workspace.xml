@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36ade6b6-e228-4633-861f-56b5d7a1c94b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Eng_data_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics/correlation_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics/event_type_distribution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics/events_over_time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics/price_distribution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics/top_10_brands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/2019-Dec.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full_data_initial_memory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/initial_memory_analysis.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory_comparison.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optimized_memory_analysis.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optimized_subset.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qCeQZFV6Ez3HoRNLd2GiNthLLX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.6_task.executor": "Run",
+    "Python.6_task_part1.executor": "Run",
+    "Python.6_task_v1.executor": "Run",
+    "Python.6_task_v2.executor": "Run",
+    "Python.merge.executor": "Run",
+    "Python.v2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/novik/PycharmProjects/Eng_data_6/data"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\novik\PycharmProjects\Eng_data_6\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\novik\PycharmProjects\Eng_data_6\Grafics" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36ade6b6-e228-4633-861f-56b5d7a1c94b" name="Changes" comment="" />
+      <created>1734170968923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734170968923</updated>
+    </task>
+    <servers />
+  </component>
+</project>
